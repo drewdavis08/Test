@@ -1,3 +1,3 @@
 # smoke
 
-Created by the github-pat-mcp write-path smoke test.
+Updated: second write must resolve the existing blob SHA.
